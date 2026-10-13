@@ -1,0 +1,6 @@
+{
+  "name": "Curriculum · Elite CV Builder & Code Generator",
+  "description": "Professional ATS-ready CV templates generator with live customization, PDF print, and instant code export in React, HTML/Tailwind, LaTeX, and JSON Resume.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
